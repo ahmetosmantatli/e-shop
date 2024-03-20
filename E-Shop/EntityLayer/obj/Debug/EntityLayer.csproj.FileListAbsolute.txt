@@ -1,0 +1,12 @@
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\AHMET\source\repos\E-Shop\EntityLayer\obj\Debug\EntityLayer.pdb
